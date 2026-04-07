@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>वस्त्र — Desi Smart Clothing Recommender</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Yatra+One&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+  <!-- Background decoration -->
+  <div class="bg-pattern"></div>
+  <div class="mandala top-right"></div>
+  <div class="mandala bottom-left"></div>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="logo">🪡 वस्त्र</div>
+    <div class="nav-links">
+      <button class="nav-btn active" onclick="showSection('home')">Home</button>
+      <button class="nav-btn" onclick="showSection('recommend')">Recommend</button>
+      <button class="nav-btn" onclick="showSection('history')">My Wardrobe</button>
+    </div>
+  </nav>
+
+  <!-- ── SECTION: HOME / PROFILE ── -->
+  <section id="home" class="section active">
+    <div class="hero">
+      <h1 class="hero-title">Your Desi Style, <span class="accent">Reimagined</span></h1>
+      <p class="hero-sub">Tell us about yourself — we'll find the perfect Indian outfit for every occasion.</p>
+    </div>
+
+    <div class="card profile-card">
+      <h2 class="card-title">👤 My Style Profile</h2>
+      <div id="profile-status" class="profile-status hidden"></div>
+
+      <form id="profile-form" onsubmit="saveProfile(event)">
+        <div class="form-grid">
+          <div class="form-group">
+            <label>Full Name</label>
+            <input type="text" id="name" placeholder="e.g. Shreya Sharma" required />
+          </div>
+          <div class="form-group">
+            <label>Age</label>
+            <input type="number" id="age" placeholder="e.g. 20" min="10" max="100" required />
+          </div>
+          <div class="form-group">
+            <label>Gender</label>
+            <select id="gender" required>
+              <option value="">Select</option>
+              <option value="Female">Female</option>
+              <option value="Male">Male</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Body Type</label>
+            <select id="body_type" required>
+              <option value="">Select</option>
+              <option value="Slim">Slim</option>
+              <option value="Athletic">Athletic</option>
+              <option value="Curvy">Curvy</option>
+              <option value="Plus Size">Plus Size</option>
+              <option value="Petite">Petite</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Skin Tone</label>
+            <select id="skin_tone" required>
+              <option value="">Select</option>
+              <option value="Fair">Fair</option>
+              <option value="Wheatish">Wheatish</option>
+              <option value="Dusky">Dusky</option>
+              <option value="Dark">Dark</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Clothing Size</label>
+            <select id="size" required>
+              <option value="">Select</option>
+              <option value="XS">XS</option>
+              <option value="S">S</option>
+              <option value="M">M</option>
+              <option value="L">L</option>
+              <option value="XL">XL</option>
+              <option value="XXL">XXL</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Budget Min (₹)</label>
+            <input type="number" id="budget_min" placeholder="e.g. 500" min="0" required />
+          </div>
+          <div class="form-group">
+            <label>Budget Max (₹)</label>
+            <input type="number" id="budget_max" placeholder="e.g. 5000" min="0" required />
+          </div>
+        </div>
+
+        <div class="form-group full-width">
+          <label>Style Interests (select all that apply)</label>
+          <div class="checkbox-group">
+            <label class="check-item"><input type="checkbox" value="Wedding" /> 💍 Wedding</label>
+            <label class="check-item"><input type="checkbox" value="Festive" /> 🪔 Festive</label>
+            <label class="check-item"><input type="checkbox" value="Casual" /> 👕 Casual</label>
+            <label class="check-item"><input type="checkbox" value="Office" /> 💼 Office</label>
+            <label class="check-item"><input type="checkbox" value="College" /> 🎒 College</label>
+            <label class="check-item"><input type="checkbox" value="Pooja" /> 🙏 Pooja</label>
+          </div>
+        </div>
+
+        <button type="submit" class="btn-primary">Save My Profile ✨</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- ── SECTION: RECOMMEND ── -->
+  <section id="recommend" class="section">
+    <div class="section-header">
+      <h2>🪡 Get Recommendations</h2>
+      <p>Tell us the occasion and we'll find your perfect outfit</p>
+    </div>
+
+    <div class="card filter-card">
+      <div class="filter-row">
+        <div class="form-group">
+          <label>Occasion</label>
+          <select id="occasion">
+            <option value="">Select Occasion</option>
+            <option value="Wedding">💍 Wedding / Shaadi</option>
+            <option value="Festive">🪔 Festive (Diwali, Eid, Holi)</option>
+            <option value="Casual">👕 Casual / Daily Wear</option>
+            <option value="Office">💼 Office / Formal</option>
+            <option value="College">🎒 College</option>
+            <option value="Pooja">🙏 Pooja / Religious</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Sort By</label>
+          <select id="sort_by">
+            <option value="price">💰 Lowest Price</option>
+            <option value="quality">⭐ Highest Quality</option>
+            <option value="delivery">🚚 Fastest Delivery</option>
+          </select>
+        </div>
+        <button class="btn-primary" onclick="getRecommendations()">Find Outfits →</button>
+      </div>
+    </div>
+
+    <!-- Charts -->
+    <div id="charts-section" class="charts-section hidden">
+      <div class="charts-grid">
+        <div class="card chart-card">
+          <h3>💰 Avg Price by Platform (₹)</h3>
+          <canvas id="priceChart"></canvas>
+        </div>
+        <div class="card chart-card">
+          <h3>⭐ Avg Quality by Platform</h3>
+          <canvas id="qualityChart"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="results-section" class="results-section hidden">
+      <h3 id="results-title" class="results-title"></h3>
+      <div id="results-grid" class="results-grid"></div>
+    </div>
+
+    <div id="no-results" class="no-results hidden">
+      <p>😕 No outfits found for this occasion in your budget & size. Try adjusting your filters!</p>
+    </div>
+  </section>
+
+  <!-- ── SECTION: HISTORY ── -->
+  <section id="history" class="section">
+    <div class="section-header">
+      <h2>👗 My Wardrobe History</h2>
+      <p>Items you've bought, tracked and analyzed</p>
+    </div>
+
+    <div id="history-content">
+      <div class="card chart-card" id="stats-chart-card" style="max-width:400px;margin:0 auto 2rem;">
+        <h3>📊 My Category Breakdown</h3>
+        <canvas id="historyChart"></canvas>
+      </div>
+      <div id="history-grid" class="results-grid"></div>
+      <div id="no-history" class="no-results hidden">
+        <p>🛍️ No purchases yet. Start recommending and log your buys!</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

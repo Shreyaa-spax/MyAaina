@@ -1,0 +1,41 @@
+id,name,category,occasion,platform,price,quality_rating,delivery_days,color,size,gender
+1,Banarasi Silk Saree,Saree,Wedding,Myntra,4500,4.5,5,Red,Free Size,Female
+2,Cotton Printed Saree,Saree,Casual,Meesho,599,3.8,7,Blue,Free Size,Female
+3,Kanjivaram Silk Saree,Saree,Festive,Amazon,8999,4.8,4,Green,Free Size,Female
+4,Georgette Saree,Saree,Office,Myntra,1299,4.0,5,Beige,Free Size,Female
+5,Chiffon Saree,Saree,College,Meesho,799,3.5,8,Pink,Free Size,Female
+6,Bridal Lehenga,Lehenga,Wedding,Myntra,12999,4.7,6,Red,S,Female
+7,Festive Lehenga,Lehenga,Festive,Amazon,5999,4.3,5,Orange,M,Female
+8,Indo-Western Lehenga,Lehenga,College,Meesho,2499,3.9,7,Purple,L,Female
+9,Designer Lehenga,Lehenga,Wedding,Myntra,18999,4.9,7,Pink,XL,Female
+10,Party Lehenga,Lehenga,Festive,Amazon,3999,4.1,5,Blue,S,Female
+11,Cotton Kurti,Kurti,Casual,Meesho,399,3.7,6,Yellow,S,Female
+12,Silk Kurti,Kurti,Office,Myntra,1199,4.2,4,White,M,Female
+13,Embroidered Kurti,Kurti,Festive,Amazon,899,4.0,5,Orange,L,Female
+14,Anarkali Kurti,Kurti,College,Meesho,699,3.6,8,Pink,XL,Female
+15,Straight Kurti,Kurti,Office,Myntra,999,4.1,4,Blue,S,Female
+16,Salwar Kameez,Salwar,Casual,Meesho,799,3.8,7,Green,M,Female
+17,Punjabi Suit,Salwar,Festive,Amazon,2499,4.3,5,Red,L,Female
+18,Cotton Salwar,Salwar,Office,Myntra,1499,4.0,4,Beige,XL,Female
+19,Embroidered Salwar,Salwar,Wedding,Amazon,3999,4.4,6,Pink,S,Female
+20,Palazzo Suit,Salwar,College,Meesho,999,3.7,8,Blue,M,Female
+21,Sherwani,Sherwani,Wedding,Myntra,8999,4.6,6,Cream,M,Male
+22,Designer Sherwani,Sherwani,Wedding,Amazon,14999,4.8,7,Gold,L,Male
+23,Indo-Western Sherwani,Sherwani,Festive,Myntra,5999,4.3,5,Navy,XL,Male
+24,Jodhpuri Sherwani,Sherwani,Wedding,Amazon,11999,4.7,6,Maroon,S,Male
+25,Simple Sherwani,Sherwani,Festive,Meesho,3499,3.9,8,Beige,M,Male
+26,Cotton Kurta,Kurta,Casual,Meesho,499,3.8,7,White,S,Male
+27,Silk Kurta,Kurta,Festive,Myntra,1999,4.4,4,Blue,M,Male
+28,Embroidered Kurta,Kurta,Wedding,Amazon,2999,4.5,5,Cream,L,Male
+29,Linen Kurta,Kurta,Office,Myntra,1499,4.2,4,Grey,XL,Male
+30,Printed Kurta,Kurta,College,Meesho,699,3.6,8,Green,S,Male
+31,Dhoti Kurta Set,Dhoti,Festive,Amazon,2499,4.3,5,White,M,Male
+32,Silk Dhoti Set,Dhoti,Wedding,Myntra,4999,4.6,6,Cream,L,Male
+33,Cotton Dhoti,Dhoti,Casual,Meesho,399,3.5,8,White,XL,Male
+34,Designer Dhoti Set,Dhoti,Festive,Amazon,3499,4.4,5,Gold,S,Male
+35,Traditional Dhoti,Dhoti,Pooja,Meesho,299,3.7,7,White,M,Male
+36,Indo-Western Jacket,Indo-Western,College,Myntra,2999,4.2,5,Black,S,Male
+37,Nehru Jacket,Indo-Western,Festive,Amazon,1999,4.1,5,Blue,M,Male
+38,Bandhgala Suit,Indo-Western,Office,Myntra,4999,4.5,4,Navy,L,Male
+39,Fusion Kurta,Indo-Western,College,Meesho,1299,3.8,7,Grey,XL,Female
+40,Crop Top Lehenga,Indo-Western,College,Myntra,3499,4.3,5,Pink,S,Female
