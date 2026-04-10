@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+user_profile.json
+purchase_history.csv
+
+myntra_cache.json
+manyavar_cache.json
+savana_cache.json
+
+.DS_Store
+Thumbs.db

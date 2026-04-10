@@ -1,0 +1,199 @@
+id,name,category,occasion,platform,price,quality_rating,delivery_days,color,size,gender,image_url
+1,Daily Drape Printed Saree,Saree,Casual,Savana,699,3.9,7,Blue,Free Size,Female,/files/images/saree.jpg
+2,Soft Cotton Office Saree,Saree,Casual,Amazon,1199,4.1,5,Teal,Free Size,Female,/files/images/saree.jpg
+3,Floral Linen Saree,Saree,Casual,Myntra,1599,4.2,4,Peach,Free Size,Female,/files/images/saree.jpg
+4,Straight Cotton Kurti,Kurti,Casual,Savana,449,3.8,6,Yellow,S,Female,/files/images/kurti.jpg
+5,Printed Rayon Kurti,Kurti,Casual,Amazon,799,4.0,5,Olive,M,Female,/files/images/kurti.jpg
+6,Panelled Casual Kurti,Kurti,Casual,Myntra,1099,4.3,4,Maroon,L,Female,/files/images/kurti.jpg
+7,Everyday Salwar Set,Salwar,Casual,Savana,899,3.9,7,Green,M,Female,/files/images/salwar.jpg
+8,Comfort Fit Salwar Suit,Salwar,Casual,Amazon,1299,4.1,5,Pink,L,Female,/files/images/salwar.jpg
+9,Weekend Palazzo Suit,Salwar,Casual,Myntra,1699,4.3,4,Lavender,XL,Female,/files/images/salwar.jpg
+10,Fusion Tunic Set,Indo-Western,Casual,Savana,999,3.8,7,Grey,S,Female,/files/images/indo-western.jpg
+11,Indigo Layered Co-ord,Indo-Western,Casual,Amazon,1499,4.0,5,Indigo,M,Female,/files/images/indo-western.jpg
+12,Drape Style Co-ord,Indo-Western,Casual,Myntra,2199,4.2,4,Black,L,Female,/files/images/indo-western.jpg
+13,Minimal Border Saree,Saree,Office,Amazon,1499,4.1,5,Beige,Free Size,Female,/files/images/saree.jpg
+14,Formal Printed Saree,Saree,Office,Myntra,1899,4.3,4,Slate Blue,Free Size,Female,/files/images/saree.jpg
+15,Lightweight Work Saree,Saree,Office,Savana,899,3.8,7,Cream,Free Size,Female,/files/images/saree.jpg
+16,Chikankari Office Kurti,Kurti,Office,Myntra,1399,4.4,4,Ivory,S,Female,/files/images/kurti.jpg
+17,Structured Straight Kurti,Kurti,Office,Amazon,999,4.1,5,Navy,M,Female,/files/images/kurti.jpg
+18,Cotton Blend Office Kurti,Kurti,Office,Savana,599,3.8,6,Rose,L,Female,/files/images/kurti.jpg
+19,Tailored Salwar Suit,Salwar,Office,Myntra,1999,4.4,4,Wine,M,Female,/files/images/salwar.jpg
+20,Subtle Print Salwar Set,Salwar,Office,Amazon,1499,4.1,5,Grey,L,Female,/files/images/salwar.jpg
+21,Classic Office Salwar,Salwar,Office,Savana,999,3.9,7,Blue,XL,Female,/files/images/salwar.jpg
+22,Belted Indo-Western Set,Indo-Western,Office,Myntra,2499,4.3,4,Olive,S,Female,/files/images/indo-western.jpg
+23,Clean Line Co-ord,Indo-Western,Office,Amazon,1799,4.0,5,Brown,M,Female,/files/images/indo-western.jpg
+24,Smart Casual Fusion Set,Indo-Western,Office,Savana,1199,3.8,7,Rust,L,Female,/files/images/indo-western.jpg
+25,Playful Printed Saree,Saree,College,Savana,799,3.7,7,Pink,Free Size,Female,/files/images/saree.jpg
+26,Pastel Party Saree,Saree,College,Amazon,1299,4.0,5,Lilac,Free Size,Female,/files/images/saree.jpg
+27,Campus Chic Kurti,Kurti,College,Savana,499,3.8,6,Mint,S,Female,/files/images/kurti.jpg
+28,A-Line Campus Kurti,Kurti,College,Amazon,849,4.0,5,Coral,M,Female,/files/images/kurti.jpg
+29,Front Slit Kurti,Kurti,College,Myntra,1199,4.2,4,Mustard,L,Female,/files/images/kurti.jpg
+30,Printed Palazzo Suit,Salwar,College,Savana,949,3.8,7,Sky Blue,S,Female,/files/images/salwar.jpg
+31,Youthful Salwar Set,Salwar,College,Amazon,1399,4.0,5,Purple,M,Female,/files/images/salwar.jpg
+32,Easy Fest Kurta Set,Salwar,College,Myntra,1899,4.2,4,Magenta,L,Female,/files/images/salwar.jpg
+33,Flared Lehenga Set,Lehenga,College,Amazon,3299,4.1,5,Orange,S,Female,/files/images/lehenga.jpg
+34,Mirror Work Lehenga,Lehenga,College,Myntra,4899,4.4,4,Turquoise,M,Female,/files/images/lehenga.jpg
+35,Layered Indo-Western Dress,Indo-Western,College,Savana,1199,3.8,7,Black,L,Female,/files/images/indo-western.jpg
+36,Crop Top Skirt Co-ord,Indo-Western,College,Myntra,2599,4.3,4,Red,XL,Female,/files/images/indo-western.jpg
+37,Zari Border Saree,Saree,Festive,Myntra,2599,4.4,4,Red,Free Size,Female,/files/images/saree.jpg
+38,Festive Silk Saree,Saree,Festive,Amazon,2199,4.2,5,Green,Free Size,Female,/files/images/saree.jpg
+39,Budget Fest Saree,Saree,Festive,Manyavar,999,3.9,7,Maroon,Free Size,Female,/files/images/saree.jpg
+40,Thread Work Kurti,Kurti,Festive,Amazon,1199,4.1,5,Orange,S,Female,/files/images/kurti.jpg
+41,Festive Embroidered Kurti,Kurti,Festive,Myntra,1699,4.4,4,Royal Blue,M,Female,/files/images/kurti.jpg
+42,Gota Patti Kurti,Kurti,Festive,Manyavar,799,3.8,7,Yellow,L,Female,/files/images/kurti.jpg
+43,Punjabi Fest Suit,Salwar,Festive,Amazon,1999,4.2,5,Rani Pink,S,Female,/files/images/salwar.jpg
+44,Anarkali Salwar Set,Salwar,Festive,Myntra,2799,4.5,4,Purple,M,Female,/files/images/salwar.jpg
+45,Budget Sharara Set,Salwar,Festive,Manyavar,1299,3.9,7,Wine,L,Female,/files/images/salwar.jpg
+46,Festive Mirror Lehenga,Lehenga,Festive,Myntra,6999,4.6,4,Magenta,M,Female,/files/images/lehenga.jpg
+47,Embellished Lehenga,Lehenga,Festive,Amazon,4999,4.3,5,Blue,L,Female,/files/images/lehenga.jpg
+48,Value Lehenga Set,Lehenga,Festive,Manyavar,2499,3.9,7,Peach,XL,Female,/files/images/lehenga.jpg
+49,Banarasi Bridal Saree,Saree,Wedding,Myntra,5499,4.6,4,Red,Free Size,Female,/files/images/saree.jpg
+50,Kanjivaram Occasion Saree,Saree,Wedding,Amazon,4899,4.5,5,Emerald,Free Size,Female,/files/images/saree.jpg
+51,Wedding Ready Saree,Saree,Wedding,Manyavar,1799,4.0,7,Rose Gold,Free Size,Female,/files/images/saree.jpg
+52,Sequinned Salwar Set,Salwar,Wedding,Amazon,3999,4.4,5,Blush,S,Female,/files/images/salwar.jpg
+53,Wedding Sharara Suit,Salwar,Wedding,Myntra,5299,4.6,4,Plum,M,Female,/files/images/salwar.jpg
+54,Budget Party Salwar,Salwar,Wedding,Manyavar,1899,4.0,7,Mauve,L,Female,/files/images/salwar.jpg
+55,Bridal Lehenga Set,Lehenga,Wedding,Myntra,10999,4.8,4,Crimson,S,Female,/files/images/lehenga.jpg
+56,Reception Lehenga,Lehenga,Wedding,Amazon,7499,4.5,5,Navy,M,Female,/files/images/lehenga.jpg
+57,Affordable Wedding Lehenga,Lehenga,Wedding,Manyavar,3299,4.0,7,Fuchsia,L,Female,/files/images/lehenga.jpg
+58,Cape Style Indo-Western,Indo-Western,Wedding,Myntra,4599,4.4,4,Gold,S,Female,/files/images/indo-western.jpg
+59,Wedding Fusion Set,Indo-Western,Wedding,Amazon,3699,4.2,5,Copper,M,Female,/files/images/indo-western.jpg
+60,Statement Indo-Western,Indo-Western,Wedding,Manyavar,2199,3.9,7,Bottle Green,XL,Female,/files/images/indo-western.jpg
+61,Temple Border Saree,Saree,Pooja,Myntra,1999,4.4,4,Mustard,Free Size,Female,/files/images/saree.jpg
+62,Simple Cotton Saree,Saree,Pooja,Amazon,1299,4.1,5,White,Free Size,Female,/files/images/saree.jpg
+63,Budget Pooja Saree,Saree,Pooja,Manyavar,799,3.8,7,Saffron,Free Size,Female,/files/images/saree.jpg
+64,Traditional Printed Kurti,Kurti,Pooja,Amazon,949,4.0,5,Red,S,Female,/files/images/kurti.jpg
+65,Pooja Wear Kurti,Kurti,Pooja,Myntra,1299,4.3,4,Cream,M,Female,/files/images/kurti.jpg
+66,Budget Ethnic Kurti,Kurti,Pooja,Manyavar,549,3.8,6,Green,L,Female,/files/images/kurti.jpg
+67,Classic Salwar Set,Salwar,Pooja,Myntra,1799,4.3,4,Ivory,S,Female,/files/images/salwar.jpg
+68,Graceful Salwar Suit,Salwar,Pooja,Amazon,1399,4.1,5,Yellow,M,Female,/files/images/salwar.jpg
+69,Temple Visit Salwar,Salwar,Pooja,Manyavar,999,3.9,7,Maroon,L,Female,/files/images/salwar.jpg
+70,Simple Festive Lehenga,Lehenga,Pooja,Amazon,2999,4.0,5,Pink,S,Female,/files/images/lehenga.jpg
+71,Pooja Mirror Lehenga,Lehenga,Pooja,Myntra,4299,4.3,4,Orange,M,Female,/files/images/lehenga.jpg
+72,Value Ethnic Lehenga,Lehenga,Pooja,Manyavar,2199,3.8,7,Blue,L,Female,/files/images/lehenga.jpg
+73,Daily Wear Kurta,Kurta,Casual,Myntra,599,3.8,7,White,S,Male,/files/images/kurta.jpg
+74,Cotton Weekend Kurta,Kurta,Casual,Amazon,999,4.0,5,Blue,M,Male,/files/images/kurta.jpg
+75,Textured Casual Kurta,Kurta,Casual,Myntra,1499,4.2,4,Olive,L,Male,/files/images/kurta.jpg
+76,Printed Short Kurta,Kurta,Casual,Myntra,699,3.8,7,Grey,XL,Male,/files/images/kurta.jpg
+77,Relaxed Pathani Kurta,Kurta,Casual,Amazon,1299,4.1,5,Black,XXL,Male,/files/images/kurta.jpg
+78,Everyday Dhoti Set,Dhoti,Casual,Myntra,799,3.7,7,Cream,M,Male,/files/images/dhoti.jpg
+79,Casual Veshti Combo,Dhoti,Casual,Amazon,1099,3.9,5,White,L,Male,/files/images/dhoti.jpg
+80,Casual Nehru Jacket,Indo-Western,Casual,Myntra,1899,4.2,4,Navy,S,Male,/files/images/indo-western.jpg
+81,Layered Indo Set,Indo-Western,Casual,Amazon,1699,4.0,5,Rust,M,Male,/files/images/indo-western.jpg
+82,Campus Fusion Kurta,Indo-Western,Casual,Myntra,999,3.8,7,Teal,L,Male,/files/images/indo-western.jpg
+83,Light Fest Sherwani,Sherwani,Casual,Amazon,3499,4.1,5,Beige,M,Male,/files/images/sherwani.jpg
+84,Entry Sherwani Set,Sherwani,Casual,Myntra,2499,3.8,7,Maroon,L,Male,/files/images/sherwani.jpg
+85,Linen Office Kurta,Kurta,Office,Myntra,1699,4.3,4,Grey,S,Male,/files/images/kurta.jpg
+86,Solid Work Kurta,Kurta,Office,Amazon,1199,4.1,5,Navy,M,Male,/files/images/kurta.jpg
+87,Budget Formal Kurta,Kurta,Office,Myntra,749,3.8,7,Blue,L,Male,/files/images/kurta.jpg
+88,Banded Collar Kurta,Kurta,Office,Myntra,1799,4.2,4,Brown,XL,Male,/files/images/kurta.jpg
+89,Nehru Jacket Set,Indo-Western,Office,Myntra,2499,4.4,4,Olive,M,Male,/files/images/indo-western.jpg
+90,Structured Bandhgala,Indo-Western,Office,Amazon,2999,4.2,5,Black,L,Male,/files/images/indo-western.jpg
+91,Smart Fusion Jacket,Indo-Western,Office,Myntra,1399,3.9,7,Charcoal,XL,Male,/files/images/indo-western.jpg
+92,Textured Formal Jacket,Indo-Western,Office,Amazon,2199,4.1,5,Bottle Green,XXL,Male,/files/images/indo-western.jpg
+93,Formal Sherwani,Sherwani,Office,Amazon,4999,4.3,5,Wine,S,Male,/files/images/sherwani.jpg
+94,Office Occasion Sherwani,Sherwani,Office,Myntra,5999,4.4,4,Steel Blue,M,Male,/files/images/sherwani.jpg
+95,Clean White Dhoti Set,Dhoti,Office,Amazon,1499,4.0,5,White,L,Male,/files/images/dhoti.jpg
+96,Classic Cream Dhoti,Dhoti,Office,Myntra,899,3.8,7,Cream,XL,Male,/files/images/dhoti.jpg
+97,Printed College Kurta,Kurta,College,Myntra,649,3.8,7,Green,S,Male,/files/images/kurta.jpg
+98,Slim Fit Campus Kurta,Kurta,College,Amazon,999,4.0,5,Maroon,M,Male,/files/images/kurta.jpg
+99,Street Style Kurta,Kurta,College,Myntra,1599,4.2,4,Black,L,Male,/files/images/kurta.jpg
+100,Everyday College Kurta,Kurta,College,Myntra,699,3.8,7,Mustard,XL,Male,/files/images/kurta.jpg
+101,Casual Nehru Vest Set,Indo-Western,College,Amazon,1799,4.0,5,Blue,S,Male,/files/images/indo-western.jpg
+102,Campus Indo-Western Jacket,Indo-Western,College,Myntra,2299,4.3,4,Grey,M,Male,/files/images/indo-western.jpg
+103,Fusion Party Jacket,Indo-Western,College,Myntra,1299,3.8,7,Rust,L,Male,/files/images/indo-western.jpg
+104,College Bandhgala,Indo-Western,College,Amazon,2499,4.1,5,Navy,XL,Male,/files/images/indo-western.jpg
+105,Budget Event Sherwani,Sherwani,College,Myntra,2999,3.9,7,Purple,S,Male,/files/images/sherwani.jpg
+106,Occasion Sherwani,Sherwani,College,Amazon,4299,4.2,5,Gold,M,Male,/files/images/sherwani.jpg
+107,Youth Dhoti Combo,Dhoti,College,Myntra,899,3.7,7,White,L,Male,/files/images/dhoti.jpg
+108,Fest Dhoti Set,Dhoti,College,Amazon,1399,4.0,5,Cream,XL,Male,/files/images/dhoti.jpg
+109,Silk Blend Kurta,Kurta,Festive,Myntra,1999,4.4,4,Royal Blue,S,Male,/files/images/kurta.jpg
+110,Festive Printed Kurta,Kurta,Festive,Amazon,1499,4.1,5,Saffron,M,Male,/files/images/kurta.jpg
+111,Budget Fest Kurta,Kurta,Festive,Manyavar,799,3.9,7,Teal,L,Male,/files/images/kurta.jpg
+112,Classic Sherwani,Sherwani,Festive,Myntra,6999,4.6,4,Cream,S,Male,/files/images/sherwani.jpg
+113,Festive Embroidered Sherwani,Sherwani,Festive,Amazon,5499,4.4,5,Maroon,M,Male,/files/images/sherwani.jpg
+114,Value Sherwani Set,Sherwani,Festive,Manyavar,3299,4.0,7,Navy,L,Male,/files/images/sherwani.jpg
+115,Designer Sherwani,Sherwani,Festive,Myntra,8999,4.7,4,Gold,XL,Male,/files/images/sherwani.jpg
+116,Temple Dhoti Combo,Dhoti,Festive,Amazon,1699,4.1,5,White,M,Male,/files/images/dhoti.jpg
+117,Premium Veshti Set,Dhoti,Festive,Myntra,2199,4.3,4,Off White,L,Male,/files/images/dhoti.jpg
+118,Budget Dhoti Set,Dhoti,Festive,Manyavar,999,3.8,7,Cream,XL,Male,/files/images/dhoti.jpg
+119,Festive Nehru Jacket,Indo-Western,Festive,Amazon,2499,4.1,5,Bottle Green,S,Male,/files/images/indo-western.jpg
+120,Celebration Indo Set,Indo-Western,Festive,Myntra,3299,4.4,4,Black,M,Male,/files/images/indo-western.jpg
+121,Groom Sherwani Set,Sherwani,Wedding,Myntra,12999,4.8,4,Ivory,S,Male,/files/images/sherwani.jpg
+122,Wedding Royal Sherwani,Sherwani,Wedding,Amazon,9999,4.6,5,Gold,M,Male,/files/images/sherwani.jpg
+123,Budget Wedding Sherwani,Sherwani,Wedding,Manyavar,4299,4.0,7,Maroon,L,Male,/files/images/sherwani.jpg
+124,Velvet Sherwani,Sherwani,Wedding,Myntra,14999,4.8,4,Wine,XL,Male,/files/images/sherwani.jpg
+125,Jodhpuri Sherwani,Sherwani,Wedding,Amazon,11999,4.7,5,Navy,XXL,Male,/files/images/sherwani.jpg
+126,Ceremony Kurta Set,Kurta,Wedding,Myntra,2499,4.3,4,Cream,M,Male,/files/images/kurta.jpg
+127,Wedding Kurta Pajama,Kurta,Wedding,Amazon,1899,4.1,5,White,L,Male,/files/images/kurta.jpg
+128,Silk Dhoti Set,Dhoti,Wedding,Myntra,2999,4.4,4,Cream,S,Male,/files/images/dhoti.jpg
+129,Temple Ceremony Dhoti,Dhoti,Wedding,Amazon,1799,4.1,5,White,M,Male,/files/images/dhoti.jpg
+130,Reception Bandhgala,Indo-Western,Wedding,Myntra,4999,4.5,4,Black,L,Male,/files/images/indo-western.jpg
+131,Wedding Indo-Western,Indo-Western,Wedding,Amazon,3999,4.2,5,Copper,XL,Male,/files/images/indo-western.jpg
+132,Value Indo Set,Indo-Western,Wedding,Manyavar,2399,3.9,7,Olive,XXL,Male,/files/images/indo-western.jpg
+133,Pooja Cotton Kurta,Kurta,Pooja,Manyavar,599,3.8,7,White,S,Male,/files/images/kurta.jpg
+134,Temple Visit Kurta,Kurta,Pooja,Amazon,999,4.0,5,Saffron,M,Male,/files/images/kurta.jpg
+135,Traditional Pooja Kurta,Kurta,Pooja,Myntra,1499,4.2,4,Cream,L,Male,/files/images/kurta.jpg
+136,Simple Ritual Kurta,Kurta,Pooja,Manyavar,699,3.8,7,Yellow,XL,Male,/files/images/kurta.jpg
+137,Panchakacham Dhoti,Dhoti,Pooja,Myntra,1999,4.3,4,White,S,Male,/files/images/dhoti.jpg
+138,Classic Temple Dhoti,Dhoti,Pooja,Amazon,1299,4.0,5,Cream,M,Male,/files/images/dhoti.jpg
+139,Budget Pooja Dhoti,Dhoti,Pooja,Manyavar,799,3.8,7,Off White,L,Male,/files/images/dhoti.jpg
+140,Border Veshti Set,Dhoti,Pooja,Myntra,2199,4.4,4,Gold,XL,Male,/files/images/dhoti.jpg
+141,Cotton Veshti Combo,Dhoti,Pooja,Amazon,1399,4.1,5,Ivory,XXL,Male,/files/images/dhoti.jpg
+142,Simple Sherwani,Sherwani,Pooja,Amazon,4499,4.2,5,Beige,M,Male,/files/images/sherwani.jpg
+143,Prayer Jacket Set,Indo-Western,Pooja,Myntra,2799,4.3,4,Maroon,L,Male,/files/images/indo-western.jpg
+144,Budget Ritual Jacket,Indo-Western,Pooja,Manyavar,1299,3.9,7,Brown,XL,Male,/files/images/indo-western.jpg
+145,Rashmika's Zari Embroidered Bridal Lehenga with Signature Elephant Border,Lehenga,Wedding,Manyavar,104580,4.7,5,Red,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwa4ca997a/images/feeds/UC167878.jpg
+146,Radiant Blue Elegance Lehenga,Lehenga,Wedding,Manyavar,27390,4.7,5,Blue,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwf4a6376a/images/feeds/UC152292.jpg
+147,Pink Elegance Bridal Lehenga,Lehenga,Wedding,Manyavar,83830,4.7,5,Pink,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwce2b2084/images/feeds/UC151776.jpg
+148,Cream Elegance Net Bridal Lehenga,Lehenga,Wedding,Manyavar,62665,4.7,5,Cream,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw33e23632/images/feeds/UC145633.jpg
+149,Pink Organza Elegance Lehenga,Lehenga,Wedding,Manyavar,17430,4.7,5,Pink,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw42972b07/images/feeds/UC149233.jpg
+150,Wine Hued Elegance Lehenga,Lehenga,Wedding,Manyavar,18675,4.7,5,Wine,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw3da4da35/images/feeds/UC143801.jpg
+151,Exquisite Pink Georgette Lehenga,Lehenga,Wedding,Manyavar,94205,4.7,5,Pink,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/en_US/v1775135609041/images/feeds/UC145624.jpg
+152,Enchanting Pista Green Lehenga,Lehenga,Wedding,Manyavar,66815,4.7,5,Green,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/en_US/v1775135609041/images/feeds/UC147311.jpg
+153,Vijay's Cream Sherwani with Heritage Motif Embroidery,Sherwani,Wedding,Manyavar,43990,4.7,5,Cream,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwed0eba7d/images/feeds/UC156993.jpg
+154,Champagne Regal Open Sherwani,Sherwani,Wedding,Manyavar,62665,4.7,5,Champagne,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwfcb217dd/images/feeds/UC154847.jpg
+155,Regal Cream Sherwani,Sherwani,Wedding,Manyavar,48140,4.7,5,Cream,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw8e359884/images/feeds/UC149744.jpg
+156,Champagne Opulence Sherwani,Sherwani,Wedding,Manyavar,71380,4.7,5,Champagne,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw5725ae17/images/feeds/UC155732.jpg
+157,Champagne Opulence Open Sherwani,Sherwani,Wedding,Manyavar,66815,4.7,5,Champagne,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwd021ed14/images/feeds/UC154302.jpg
+158,Natural Beige Open Sherwani,Sherwani,Wedding,Manyavar,48140,4.7,5,Assorted,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwdbb2fa6a/images/feeds/UC162212.jpg
+159,White-Pink Open Sherwani Set,Sherwani,Wedding,Manyavar,66815,4.7,5,Pink,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw776352a0/images/feeds/UC149307.jpg
+160,Beige Elegance Open Sherwani,Sherwani,Wedding,Manyavar,66815,4.7,5,Assorted,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwff173db2/images/feeds/UC149304.jpg
+161,Merira Women Floral Printed Kurta with Salwar & Dupatta,Kurta Sets,Wedding,Myntra,612,4.0,4,Purple,S,Female,https://assets.myntassets.com/assets/images/2025/JULY/23/KEMRfKTd_f746335f447a4597a622af9051e2ebe2.jpg
+162,Rajnandini Floral Printed V-Neck Straight Kurta With Salwar & Dupatta,Kurta Sets,Wedding,Myntra,665,4.1,4,Purple,S,Female,https://assets.myntassets.com/assets/images/2025/MARCH/25/IU4AuKVR_0a3118ee8c294d6e9f655b62a6fc1a95.jpg
+163,Rajnandini Floral Printed V-Neck Straight Kurta with Salwar & Dupatta,Kurta Sets,Wedding,Myntra,665,4.0,2,Maroon,S,Female,https://assets.myntassets.com/assets/images/30612952/2024/10/31/c3199fd3-9400-4c03-ac22-c1bb77c4518c1730349131551-Rajnandini-Floral-Printed-V-Neck-Straight-Kurta-with-Salwar--1.jpg
+164,BAESD Women Floral Embroidered Kurta with Salwar & Dupatta,Kurta Sets,Wedding,Myntra,724,3.2,5,Purple,S,Female,https://assets.myntassets.com/assets/images/2025/APRIL/25/RJtb5fYg_ae234f68c3ae4e32a72eef6eb8572ad1.jpg
+165,Sangria Navy Blue Floral Embroidered Tie-Up Neck Straight Kurta With Salwar And Dupatta,Kurta Sets,Wedding,Myntra,838,4.0,4,Navy Blue,S,Female,https://assets.myntassets.com/assets/images/32013682/2025/1/11/13f4c6f4-f9bb-4e5d-9216-6fdd324bd6d31736598050507-Sangria-Navy-Blue-Floral-Embroidered-Tie-Up-Neck-Straight-Ku-7.jpg
+166,KALINI  Floral Printed V-Neck Straight Kurta With Salwar And Dupatta,Kurta Sets,Wedding,Myntra,843,4.1,2,Mustard,XS,Female,https://assets.myntassets.com/assets/images/32116676/2024/12/28/cdba49bd-95d8-4c04-aed8-9f952baa7f9e1735367350016PrintedKurtawithAfghaniPantDupatta1.jpg
+167,VASTRAMAY Self Design Mandarin Collar Sherwani,Sherwani,Wedding,Myntra,3649,4.0,3,Navy Blue,S,Male,https://assets.myntassets.com/assets/images/2026/APRIL/2/pezSZiP4_ceca9be230f04c968477db5791892829.jpg
+168,VASTRAMAY Brocade Mandarin Collar Sherwani,Sherwani,Wedding,Myntra,5189,4.0,2,Maroon,S,Male,https://assets.myntassets.com/assets/images/2026/APRIL/2/d9gqK4nQ_94b017164a8c44a5b3d10efc7724a874.jpg
+169,KISAH Men Self Design Indowestern Sherwani Set,Sherwani,Wedding,Myntra,5216,4.0,2,Purple,XS,Male,https://assets.myntassets.com/assets/images/28907180/2024/4/13/69cd00fd-7ea5-4cbc-93ac-c8438068c0801712991717203KisahMenLilacKurtaSherwaniTrouserSet1.jpg
+170,KISAH Men Self-Design Indowestern Sherwani Set,Sherwani,Wedding,Myntra,5498,4.2,4,Olive,XS,Male,https://assets.myntassets.com/assets/images/2025/AUGUST/22/JVNsTwI4_67cc7cb7311a44f68637e14b5f3f6f2a.jpg
+171,VASTRAMAY Embroidered Mandarin Collar Sherwani,Sherwani,Wedding,Myntra,5509,4.0,5,Cream,S,Male,https://assets.myntassets.com/assets/images/2026/APRIL/2/N8Sqxckt_9d70cc0e71f54eba96a06090439d9f81.jpg
+172,VASTRAMAY Embroidered Mandarin Collared Sherwani,Sherwani,Wedding,Myntra,5768,4.0,5,Purple,S,Male,https://assets.myntassets.com/assets/images/2026/APRIL/2/Ithsn3EQ_b7db8fc6dcce494e865c66f5125a3f5f.jpg
+173,Sydney Heights Ethnic Motifs Woven Design Mandarin Collar Straight Fusion Kurta with Dhoti Pant,Kurta Sets,Wedding,Myntra,1239,4.2,2,Maroon,S,Male,https://assets.myntassets.com/assets/images/2024/SEPTEMBER/10/pT4bLymi_c197075102ec4195aae2d72adeb39fb9.jpg
+174,SOJANYA Men Maroon & Gold Floral Straight Kurta Churidar & Sequined Nehru Jacket,Kurta Sets,Wedding,Myntra,1631,4.0,2,Maroon,M,Male,https://assets.myntassets.com/assets/images/2026/MARCH/30/UGpKjskd_cfe03532c8214355a4482a4dc0828b9e.jpg
+175,VASTRAMAY Men Cream Coloured Solid Cowl Dhoti Pants,Dhotis,Wedding,Myntra,699,4.1,2,Cream,S,Male,https://assets.myntassets.com/assets/images/19474992/2022/8/12/faa26a03-9254-4f23-b9cf-5bdafdf5150c1660302800584VastramayMensCreamCottonSatinBlendSolidCowlDhoti1.jpg
+176,Bharatasya Men Dhoti Pants with Drawstring Waist,Dhotis,Wedding,Myntra,794,4.8,4,Teal,M,Male,https://assets.myntassets.com/assets/images/2025/APRIL/17/dWQ3Taqw_15c43eeb0696402090edb2b4be2d7c57.jpg
+177,Cream Elegance Saree,Saree,Wedding,Manyavar,10375,4.5,4,Cream,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw158558c4/images/feeds/UC151603.jpg
+178,Ethereal Cream Organza Saree,Saree,Wedding,Manyavar,10375,4.7,7,Cream,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw38851cad/images/feeds/UC156731.jpg
+179,Royal Purple Buta Patterned Lehenga with Floral Embroidered Blouse,Lehenga,Wedding,Manyavar,29465,4.5,5,Red,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw39527264/images/feeds/UC138090.jpg
+180,Twilight Blue Lehenga,Lehenga,Wedding,Manyavar,29465,4.7,4,Blue,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw23e23568/images/feeds/UC138088.jpg
+181,Teal Blue Imperial Jaal Patterned Lehenga with Sequin And Gota Patti Work,Lehenga,Wedding,Manyavar,25315,4.7,7,Blue,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw9f61df60/images/feeds/UC135194.jpg
+182,Wine Delight Chiffon Lehenga,Lehenga,Wedding,Manyavar,25315,4.6,6,Wine,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwb344f75e/images/feeds/UC135193.jpg
+183,Radiant Rust Red Saree,Saree,Wedding,Manyavar,2490,4.6,5,Red,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwd6f56a21/images/feeds/UC150902.jpg
+184,Wine Red Festivity Saree,Saree,Wedding,Manyavar,2490,4.5,7,Red,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw547d07e4/images/feeds/UC149935.jpg
+185,Elegant Teal Blue Saree,Saree,Wedding,Manyavar,5395,4.8,6,Blue,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwfb52e4c4/images/feeds/UC157993.jpg
+186,Regal Beige Sherwani,Sherwani,Wedding,Manyavar,29465,4.7,7,Assorted,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw5e99891d/images/feeds/UC137381.jpg
+187,Radiant Mustard Short Kurta,Kurta,Wedding,Manyavar,2905,4.8,7,Mustard,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwb562187b/images/feeds/UC156016.jpg
+188,Cream Splendor Short Kurta,Kurta,Wedding,Manyavar,3735,4.6,7,Cream,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw84350795/images/feeds/UC163917.jpg
+189,Elegant Cream Kurta Ensembles,Kurta,Wedding,Manyavar,4980,4.8,4,Cream,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwe5111046/images/feeds/UC142782.jpg
+190,Resplendent Coral Short Kurta,Kurta,Wedding,Manyavar,3320,4.7,4,Assorted,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw596f7741/images/feeds/UC157384.jpg
+191,Olive Green Elegance Short Kurta,Kurta,Wedding,Manyavar,3735,4.7,5,Green,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw07ecdde8/images/feeds/UC163201.jpg
+192,Vibrant Yellow Short Kurta,Kurta,Wedding,Manyavar,3735,4.6,4,Yellow,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw1c9aedf5/images/feeds/UC163200.jpg
+193,Chic Beige Short Kurta,Kurta,Wedding,Manyavar,4150,4.6,5,Assorted,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw4338c1c1/images/feeds/UC152333.jpg
+194,Dreamy Dark Green Short Kurta,Kurta,Wedding,Manyavar,4150,4.6,4,Green,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw98142a02/images/feeds/UC143121.jpg
+195,Elegant Dark Blue Short Kurta,Kurta,Wedding,Manyavar,4150,4.6,7,Blue,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwcb68236e/images/feeds/UC157383.jpg
+196,Regal Wine Kurta,Kurta,Wedding,Manyavar,4150,4.6,6,Wine,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwf5fe3641/images/feeds/UC165352.jpg
+197,White Linen Short Kurta,Kurta,Wedding,Manyavar,4565,4.7,4,White,Free Size,Male,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dw4d4fc403/images/feeds/UC163756.jpg
+198,Emerald Elegance Art Silk Saree,Saree,Festive,Manyavar,5395,4.4,7,Assorted,Free Size,Female,https://www.manyavar.com/on/demandware.static/-/Library-Sites-ManyavarSharedLibrary/default/dwc482c70f/images/feeds/UC157994.jpg
